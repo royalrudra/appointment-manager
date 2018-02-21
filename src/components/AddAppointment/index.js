@@ -1,13 +1,13 @@
 import React, { Component } from 'react';
 
-class Dashboard extends Component {
+class AddAppointment extends Component {
     render() {
         return (
             <div>
-                dsfadsf
+                This is appointment part
             </div>
         );
     }
 }
 
-export default Dashboard;
+export default AddAppointment;
